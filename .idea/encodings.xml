@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-codegenerator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-dictgenerator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-distribution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-examples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-examples/banzai" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-examples/executor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-examples/ordermatch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-messages" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-messages/quickfixj-messages-all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-messages/quickfixj-messages-fix40" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-messages/quickfixj-messages-fix41" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-messages/quickfixj-messages-fix42" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-messages/quickfixj-messages-fix43" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-messages/quickfixj-messages-fix44" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-messages/quickfixj-messages-fix50" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-messages/quickfixj-messages-fix50sp1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-messages/quickfixj-messages-fix50sp2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickfixj-messages/quickfixj-messages-fixt11" charset="UTF-8" />
+  </component>
+</project>

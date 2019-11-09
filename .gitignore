@@ -1,0 +1,4 @@
+# Project exclude paths
+/quickfixj-codegenerator/target/
+/quickfixj-core/target/
+/quickfixj-dictgenerator/target/

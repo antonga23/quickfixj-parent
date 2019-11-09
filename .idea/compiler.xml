@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="quickfixj-codegenerator" />
+        <module name="quickfixj-messages-fix40" />
+        <module name="quickfixj-messages-fix50sp2" />
+        <module name="quickfixj-messages-fix50" />
+        <module name="quickfixj-examples-executor" />
+        <module name="quickfixj-examples-ordermatch" />
+        <module name="quickfixj-messages-fix50sp1" />
+        <module name="quickfixj-examples-banzai" />
+        <module name="quickfixj-messages-all" />
+        <module name="quickfixj-all" />
+        <module name="quickfixj-messages-fixt11" />
+        <module name="quickfixj-messages-fix41" />
+        <module name="quickfixj-dictgenerator" />
+        <module name="quickfixj-core" />
+        <module name="quickfixj-messages-fix44" />
+        <module name="quickfixj-messages-fix43" />
+        <module name="quickfixj-messages-fix42" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="quickfixj-all" target="1.8" />
+      <module name="quickfixj-codegenerator" target="1.8" />
+      <module name="quickfixj-core" target="1.8" />
+      <module name="quickfixj-dictgenerator" target="1.8" />
+      <module name="quickfixj-distribution" target="1.5" />
+      <module name="quickfixj-examples" target="1.5" />
+      <module name="quickfixj-examples-banzai" target="1.8" />
+      <module name="quickfixj-examples-executor" target="1.8" />
+      <module name="quickfixj-examples-ordermatch" target="1.8" />
+      <module name="quickfixj-messages" target="1.5" />
+      <module name="quickfixj-messages-all" target="1.8" />
+      <module name="quickfixj-messages-fix40" target="1.8" />
+      <module name="quickfixj-messages-fix41" target="1.8" />
+      <module name="quickfixj-messages-fix42" target="1.8" />
+      <module name="quickfixj-messages-fix43" target="1.8" />
+      <module name="quickfixj-messages-fix44" target="1.8" />
+      <module name="quickfixj-messages-fix50" target="1.8" />
+      <module name="quickfixj-messages-fix50sp1" target="1.8" />
+      <module name="quickfixj-messages-fix50sp2" target="1.8" />
+      <module name="quickfixj-messages-fixt11" target="1.8" />
+      <module name="quickfixj-parent" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
